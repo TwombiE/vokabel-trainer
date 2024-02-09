@@ -1,0 +1,16 @@
+.mdl-button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.page-content{
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mdl-textfield{
+    width: 80%;
+}
