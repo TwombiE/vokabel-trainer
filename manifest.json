@@ -6,5 +6,6 @@
     "start_url": "/vokabel-trainer/index.html",
     "name": "Vokabel Trainer",
     "short_name": "Vok-Trainer",
-    "description": "Train your Vocabulary"
+    "description": "Train your Vocabulary",
+    "icon": "/icon.png"
 }
