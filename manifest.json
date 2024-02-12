@@ -3,7 +3,7 @@
     "background_color": "#ffffff",
     "display": "fullscreen",
     "scope": "/vokabel-trainer",
-    "start_url": "/index.html",
+    "start_url": "/vokabel-trainer/index.html",
     "name": "Vokabel Trainer",
     "short_name": "Vok-Trainer",
     "description": "Train your Vocabulary"
