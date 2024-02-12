@@ -2,7 +2,7 @@
     "theme_color": "#635fda",
     "background_color": "#ffffff",
     "display": "fullscreen",
-    "scope": "/",
+    "scope": "/vokabel-trainer",
     "start_url": "/index.html",
     "name": "Vokabel Trainer",
     "short_name": "Vok-Trainer",
